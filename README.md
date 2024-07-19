@@ -38,12 +38,12 @@ python run.py
 Please cite our paper if you use this code in your own work:
 
 ```
-@inproceedings{zhao2022towards,
+@inproceedings{zhao2024towards,
   title={Towards Multi-Objective Behavior and Knowledge Modeling in Students},
-  author={Zhao, Siqian and Sahebi,Shaghayegh},
+  author={Zhao, Siqian and Sahebi, Shaghayegh},
   booktitle={Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct '24)},
-  pages={},
-  year={2024},
+  pages={183--188},
+  year={2024}
 }
 ```
 
